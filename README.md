@@ -1,6 +1,6 @@
 # Vehicles
 
-Vehicle project given in class
+Vehicle project given in class. It demonstrates how classes work, especially as it pertains to inheritance and interfaces.
 
 ## When we edit this it shows up on the website
 
